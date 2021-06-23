@@ -20,6 +20,7 @@ A repository is a place to store all of the components of a single project, or p
 [Fork a repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) if you wish to work on your own version of a project that maintains a relationship with the upstream (original) repo, or if you wish to propose changes to an existing repo.
 
 **Demonstration** (10 minutes): Create a new public repository with a description and a README file.
+![screenshot of create repository page on github](image/demo-repo.png)
 
 1. Log into GitHub
 1. Select new repository button
