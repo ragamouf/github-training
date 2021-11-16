@@ -53,6 +53,10 @@ tool-kit. Let’s share as much as we can!
 
 A snapshot of this repository is periodically saved to Zenodo, after major updates. Please use the suggested citation from the latest version of the Zenodo record if you wish to cite any of these materials.
 
+## Here's an example if you're using this framework with your own original content
+
+The lesson content the work of <me/org> and is licensed under <licence of choice> and copyrighted by <me/org>, please attribute <me/org>. The lesson style/template is the work of The Carpentries <link to repo>.
+
 ## Examples of reuse
 
 Have you adapted these materials for your organisation? [Let us
